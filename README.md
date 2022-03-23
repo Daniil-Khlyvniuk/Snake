@@ -1,5 +1,5 @@
 # SNAKE GAME
-#### deployed game
+#### [deployed game](https://daniil-khlyvniuk.github.io/Snake/)
 ![](Snake.png)
 
 It is my first experience working with ``canvas``

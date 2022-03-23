@@ -50,14 +50,14 @@ export class GamePlay {
 		switch (ev.key.toLowerCase()) {
 			case "w":
 			case "arrowup":
-				if (currentDirection !== "dawn") {
+				if (currentDirection !== "down") {
 					this.snake.setDirection("top")
 				}
 				break
 			case "s":
 			case "arrowdown":
 				if (currentDirection !== "top") {
-					this.snake.setDirection("dawn")
+					this.snake.setDirection("down")
 				}
 				break
 			case "d":

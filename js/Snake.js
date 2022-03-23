@@ -91,7 +91,7 @@ export class Snake {
 					this.headY
 				)
 				break
-			case "dawn":
+			case "down":
 				this.setHEadPosition(
 					this.headX,
 					this.headY += Game.gridSize

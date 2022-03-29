@@ -3,7 +3,7 @@
 ![](Snake.png)
 
 It is my first experience working with ``canvas``
-The game doesn't have a gameOver, if you cross a border, the snake will appear on the other side. If you crash 
+The game doesn't have a gameOver, if you cross a border, the snake will appear on the other side. If you collide 
 into tail, the snake will become smaller 
 
 ### Technology stack: 
